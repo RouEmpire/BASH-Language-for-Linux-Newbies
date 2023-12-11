@@ -30,7 +30,7 @@ git clone https://github.com/RouEmpire/BASH-Language-for-Linux-Newbies
 
 ## ลิสต์รายชื่อร้านค้าที่มีหนังสือนี้อยู่
 
-ตอนนี้ยังไม่มี
+Meb Marketplace | [Get](https://www.mebmarket.com/ebook-275508-ภาษา-BASH-เพื่อมือใหม่-หัดใช้-Linux)
 
 
 ### ผู้เขียน
