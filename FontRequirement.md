@@ -10,7 +10,7 @@
 
 [5 Kanit (Light)](https://fonts.google.com/specimen/Kanit?query=Kanit&noto.lang=th_Thai)
 
-[6 Fira Code (Light)(Retina)](https://fonts.google.com/specimen/Fira+Code/tester?query=Fira+code&noto.lang=th_Thai)
+[6 Fira Code (Light)(Retina)](https://github.com/tonsky/FiraCode?tab=readme-ov-file#fira-code-free-monospaced-font-with-programming-ligatures#)
 
 [7 Krub (Medium)](https://fonts.google.com/specimen/Krub?query=Krub&noto.lang=th_Thai)
 
