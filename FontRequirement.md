@@ -22,5 +22,6 @@
 
 [11 Mitr](https://fonts.google.com/specimen/Mitr?query=Mitr&noto.lang=th_Thai)
 
+[Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 ### ไฟล์นี้คืออะไร?
 นี่คือลิสต์ฟ้อนต์ที่คุณจำเป็นต้องมีติดตั้งในเครื่องก่อนอยู่แล้วถึงจะเปิดไฟล์สกุล .otd และ .otg ขึ้นมาได้ โดยที่ไม่มีข้อผิดพลาด (ที่ระบบจะไปใช้ Font ตัว Default ในเครื่องแทน)
