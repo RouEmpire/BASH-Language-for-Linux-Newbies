@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1400"
+   viewBox="0 0 264.58333 370.41668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="HTML_5_Logo.svg"
+   inkscape:export-filename="/home/zeenempress/Empire/InkScape/HTML_5_Logo.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#282a36"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.47961941"
+     inkscape:cx="-134.48163"
+     inkscape:cy="779.78495"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       empspacing="100" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5288">
+      <stop
+         style="stop-color:#6272a4;stop-opacity:0"
+         offset="0"
+         id="stop5284" />
+      <stop
+         style="stop-color:#6272a4;stop-opacity:0.21568628"
+         offset="1"
+         id="stop5286" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5288"
+       id="linearGradient5290"
+       x1="132.29167"
+       y1="52.916668"
+       x2="132.29167"
+       y2="317.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="draw">
+    <path
+       style="fill:url(#linearGradient5290);fill-opacity:1;stroke:#f8f8f2;stroke-width:13.2292;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 13.230981,49.236162 H 251.35598 L 230.00976,292.81484 132.02609,321.44601 32.880371,291.61737 Z"
+       id="path2761" />
+    <g
+       aria-label="&lt;/&gt;"
+       id="text3144-7"
+       style="font-size:70.5556px;line-height:1.25;fill:#f8f8f2;stroke-width:7.937;stroke-opacity:0.215686"
+       transform="translate(-6.1328038)">
+      <path
+         d="m 125.57973,286.84309 -8.93704,-4.08861 2.89459,-5.97009 -33.975237,-21.13049 v -8.10485 l 28.366967,-17.58463 4.99317,7.88775 -23.482352,13.71312 28.222242,16.6077 25.54475,-53.00716 8.86467,4.08861 -2.8584,5.93391 36.07381,22.28833 v 8.17722 l -28.18606,17.51226 -5.17408,-7.77921 23.51854,-13.82166 -30.357,-17.76554 z"
+         style="font-weight:bold;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'"
+         id="path12586" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:70.5556px;line-height:1.25;font-family:sans-serif;fill:#f8f8f2;fill-opacity:1;stroke:#6272a4;stroke-width:7.9375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.215686"
+       x="37.076942"
+       y="123.9858"
+       id="text3144"><tspan
+         sodipodi:role="line"
+         id="tspan3142"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Chakra Petch';-inkscape-font-specification:'Chakra Petch Bold';fill:#f8f8f2;fill-opacity:1;stroke:#6272a4;stroke-width:7.9375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.215686"
+         x="37.076942"
+         y="123.9858">HTML</tspan></text>
+    <g
+       id="g11075"
+       transform="translate(0,-20.637507)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.9013px;line-height:1.25;font-family:sans-serif;fill:#f8f8f2;fill-opacity:1;stroke:#6272a4;stroke-width:8.97532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.215686"
+         x="147.87192"
+         y="197.77379"
+         id="text3144-3"><tspan
+           sodipodi:role="line"
+           id="tspan3142-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.9013px;font-family:'Chakra Petch';-inkscape-font-specification:'Chakra Petch Bold';fill:#f8f8f2;fill-opacity:1;stroke:#6272a4;stroke-width:8.97532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.215686"
+           x="147.87192"
+           y="197.77379">5</tspan></text>
+      <rect
+         style="fill:#6272a4;fill-opacity:0;stroke:#f8f8f2;stroke-width:7.9375;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect6264"
+         width="52.916664"
+         height="52.916664"
+         x="132.29167"
+         y="158.75" />
+      <path
+         style="fill:none;stroke:#f8f8f2;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 132.29166,185.20833 H 26.458333"
+         id="path6387" />
+      <path
+         style="fill:none;stroke:#f8f8f2;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 185.20833,185.20833 H 238.125"
+         id="path6389" />
+    </g>
+  </g>
+</svg>

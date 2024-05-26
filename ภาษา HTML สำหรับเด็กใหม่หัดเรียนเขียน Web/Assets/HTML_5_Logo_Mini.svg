@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="HTML_5_Logo_Mini.svg"
+   inkscape:export-filename="/home/zeenempress/Empire/InkScape/HTML_5_Logo.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#282a36"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.59296126"
+     inkscape:cx="429.20173"
+     inkscape:cy="623.9868"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       empspacing="100" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="draw">
+    <g
+       aria-label="&lt;/&gt;"
+       id="text3144-7"
+       style="font-size:70.5556px;line-height:1.25;fill:#f8f8f2;stroke-width:7.93710427;stroke-opacity:0.21568598;stroke:#6272a4;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       transform="matrix(1.9657043,0,0,1.9657043,-139.80991,-361.10888)">
+      <path
+         d="m 125.57973,286.84309 -8.93704,-4.08861 2.89459,-5.97009 -33.975237,-21.13049 v -8.10485 l 28.366967,-17.58463 4.99317,7.88775 -23.482352,13.71312 28.222242,16.6077 25.54475,-53.00716 8.86467,4.08861 -2.8584,5.93391 36.07381,22.28833 v 8.17722 l -28.18606,17.51226 -5.17408,-7.77921 23.51854,-13.82166 -30.357,-17.76554 z"
+         style="font-weight:bold;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke:#6272a4;stroke-opacity:0.21568598;stroke-width:7.93710427;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         id="path12586" />
+    </g>
+  </g>
+</svg>

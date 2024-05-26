@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="400"
+   viewBox="0 0 264.58333 105.83333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="HTML_Attribute.svg"
+   inkscape:export-filename="/home/zeenempress/Empire/InkScape/HTML_Attribute.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.45781417"
+     inkscape:cx="193.30987"
+     inkscape:cy="72.081648"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid982"
+       empspacing="100" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.5433283"
+       y="88.892616"
+       id="text5364"><tspan
+         sodipodi:role="line"
+         id="tspan5362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#f8f8f2;fill-opacity:1;stroke-width:0.264583"
+         x="8.5433283"
+         y="88.892616">&lt;<tspan
+   style="fill:#bd93f9;fill-opacity:1"
+   id="tspan21512">tag</tspan> <tspan
+   style="fill:#50fa7b;fill-opacity:1"
+   id="tspan22006">attribute</tspan><tspan
+   style="fill:#ffb86c;fill-opacity:1"
+   id="tspan24360">=&quot;Value&quot;</tspan>&gt; Content &lt;/<tspan
+   style="fill:#bd93f9;fill-opacity:1"
+   id="tspan21510">tag</tspan>&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.82257"
+       y="25.296902"
+       id="text27610"><tspan
+         sodipodi:role="line"
+         id="tspan27608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Thai';-inkscape-font-specification:'Noto Sans Thai';fill:#bd93f9;fill-opacity:1;stroke-width:0.264583"
+         x="155.82257"
+         y="25.296902">ชื่อของ Tag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.82257"
+       y="42.672283"
+       id="text27610-3"><tspan
+         sodipodi:role="line"
+         id="tspan27608-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Thai';-inkscape-font-specification:'Noto Sans Thai';fill:#50fa7b;fill-opacity:1;stroke-width:0.264583"
+         x="155.82257"
+         y="42.672283">ชื่อของ Attribute</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.82257"
+       y="60.047665"
+       id="text27610-7"><tspan
+         sodipodi:role="line"
+         id="tspan27608-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Thai';-inkscape-font-specification:'Noto Sans Thai';fill:#ffb86c;fill-opacity:1;stroke-width:0.264583"
+         x="155.82257"
+         y="60.047665">ค่าของ Attribute</tspan></text>
+    <rect
+       style="fill:#ffb86c;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062"
+       width="3.175"
+       height="2.9104166"
+       x="112.60918"
+       y="76.234352" />
+    <rect
+       style="fill:#50fa7b;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062-3"
+       width="3.175"
+       height="2.9104166"
+       x="43.817539"
+       y="76.23436" />
+    <rect
+       style="fill:#bd93f9;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062-3-5"
+       width="3.175"
+       height="2.9104166"
+       x="16.300871"
+       y="76.23436" />
+    <rect
+       style="fill:#ffb86c;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062-6"
+       width="3.175"
+       height="2.9104166"
+       x="149.95923"
+       y="55.223454" />
+    <rect
+       style="fill:#50fa7b;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062-3-2"
+       width="3.175"
+       height="2.9104166"
+       x="149.95923"
+       y="38.158981" />
+    <rect
+       style="fill:#bd93f9;fill-opacity:1;stroke-width:0.264583"
+       id="rect45062-3-5-9"
+       width="3.175"
+       height="2.9104166"
+       x="149.95923"
+       y="21.094509" />
+    <path
+       style="fill:none;stroke:#ffb86c;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 151.64967,56.646701 -37.64349,0.06337 0.16685,-2.64e-4 0.0354,21.011946"
+       id="path49116" />
+    <path
+       style="fill:none;stroke:#50fa7b;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 151.23184,39.294074 45.255172,39.13036 45.19645,77.143664"
+       id="path49391" />
+    <path
+       style="fill:none;stroke:#bd93f9;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 153.07292,22.470539 17.962534,22.30784 17.896249,77.353476"
+       id="path49539" />
+  </g>
+</svg>
